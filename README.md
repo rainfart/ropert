@@ -12,3 +12,7 @@ Thank you very much everyone!
 GNU/LINUX EXAMPLE:
 
 ![](https://github.com/rainfart/ropert/blob/main/ropert-gnu-linux.gif)
+
+KDE PLASMA / KONSOLE USERS:
+
+You can download the "ropert-konsole.sh" easy-install/run script. Just download and double click!!
