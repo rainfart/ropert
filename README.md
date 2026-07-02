@@ -2,4 +2,5 @@ This program takes an age, and calculates it into Roperts using the Prime Ropert
 This project is released under GPL-3.0-only.
 
 GNU/LINUX EXAMPLE:
-![](http://github.com/rainfart/ropert/ropert-gnu-linux.gif)
+
+![](https://github.com/rainfart/ropert/blob/main/ropert-gnu-linux.gif)
